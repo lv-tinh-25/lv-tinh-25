@@ -124,10 +124,3 @@ My career kicked off with deep **Backend engineering using Node.js**, evolved th
   <sub>Designed with ❤️ by <b>Tinh Le</b>. Open for high-impact technical roles, advisory, and engineering collaborations.</sub>
 </div>
 
----
-
-### 🟩 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lv-tinh-25/lv-tinh-25/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
