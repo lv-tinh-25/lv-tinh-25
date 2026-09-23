@@ -3,10 +3,12 @@
   <!-- Blue Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0284c7&height=220&section=header&text=Hi%20there,%20I'm%20Tinh%20Le%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <h3>🚀 Senior Full-Stack Engineer | UI/UX Enthusiast & AI Workflow Architect</h3>
+  <h3>🚀 Full-Stack Engineer | UI/UX Enthusiast & AI Workflow Architect</h3>
+
+
 
   <p align="center">
-    <b>Crafting Pixel-Perfect Interfaces • Engineering Scalable Backends • Harnessing AI Workflows</b>
+    <b>Crafting Flawless Interfaces • Engineering Robust Backends • Leveraging AI to Simplify Complexity</b>
   </p>
 
   <!-- Quick Info Badges -->
@@ -23,14 +25,15 @@
 
 ### 🌟 About Me
 
-I am a **Senior Full-Stack Engineer** with **4+ years of professional experience** dedicated to building high-performance, pixel-perfect digital products with ultra-smooth user experiences. 
+I am a **Full-Stack Engineer** with **4+ years of professional experience** dedicated to building high-performance, pixel-perfect digital products with ultra-smooth user experiences. 
 
-My career kicked off with deep **Backend engineering using Node.js**, evolved through heavy **Frontend specialization**, and matured into a highly agile **Polyglot Engineer**.
+Starting my career with **Node.js**, I rapidly adapted and achieved exponential growth as a **Frontend specialist**. Today, I have evolved into a versatile **Polyglot Engineer**, using **AI as a powerful launchpad** to break through technological boundaries and deliver exceptional products.
 
 > *"I am not just a developer who writes code — I architect resilient digital platforms, optimize system performance, design scalable workflows, and solve complex business challenges."*
 
 - 🎨 **UI/UX & Frontend Passion:** Obsessed with crafting sleek, responsive, and delightful frontend interfaces (React, Vue, Astro, Next.js, etc.).
-- 🧠 **Polyglot & Rapid Learner:** Unbound by a single technology stack. I quickly master new languages and tools (Node.js, NestJS, Python, etc.) to meet evolving enterprise demands.
+- ⚙️ **Robust Backend Architecture:** Deeply experienced in engineering scalable server-side solutions, optimizing complex databases, and building high-performance APIs (Node.js, NestJS, Python).
+- 🧠 **Polyglot & Rapid Learner:** Unbound by a single technology stack. I quickly master new languages, tools, and design patterns to meet evolving enterprise demands.
 - 🤖 **AI-Driven Engineering:** Pioneer in constructing automated AI workflows (utilizing Claude & custom LLM prompts) to multiply team output and increase engineering efficiency.
 - 💼 **Enterprise-Grade Experience:** Hands-on experience delivering large-scale systems for major corporate clients:
   - **SaaS Recruitment & ATS Platforms**
@@ -73,54 +76,20 @@ My career kicked off with deep **Backend engineering using Node.js**, evolved th
   <img src="https://img.shields.io/badge/Performance_Tuning-38bdf8?style=for-the-badge" />
 </details>
 
----
-
-### 📊 Engineering Productivity & Insights
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lv-tinh-25&show_icons=true&theme=sky&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lv-tinh-25&layout=compact&theme=sky&hide=html,css&langs_count=8" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lv-tinh-25&theme=sky&hide_border=true" width="90%" />
-</div>
-
----
-
-### 🚀 Featured Work & Key Impact
-
-<!-- Dummy Section: Update with real details later -->
-
-#### 🔹 Enterprise SaaS Recruitment Platform
-- **Role:** Tech Lead / Full-Stack Engineer
-- **Tech Stack:** React, NestJS, PostgreSQL, Redis
-- **Highlights:** Built automated candidate matching pipelines and optimized dashboard rendering, cutting load times by 40%.
-
-#### 🔹 Social Welfare & Educational Tax System
-- **Role:** Senior Full-Stack Engineer
-- **Tech Stack:** Vue.js, Node.js, Python, PostgreSQL
-- **Highlights:** Engineered compliant tax calculation engines and multi-tenant security architecture for NGOs and schools.
-
-#### 🔹 High-Concurrency Ticketing Platform
-- **Role:** Full-Stack Developer
-- **Tech Stack:** Next.js, Node.js, Redis, Docker
-- **Highlights:** Designed resilient reservation queues capable of handling peak traffic without downtime.
-
----
-
-### 🤖 AI-Powered Development Workflow
-
-<!-- Dummy Section: Update with real details later -->
-
-- **Claude AI Integration:** Built custom prompt engineering frameworks and automated code review pipelines.
-- **Developer Productivity:** Leveraged agentic AI tools to accelerate prototyping, test coverage, and API documentation.
+<details open>
+  <summary><b>Tooling & CI/CD</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</details>
 
 ---
 
 <div align="center">
   <sub>Designed with ❤️ by <b>Tinh Le</b>. Open for high-impact technical roles, advisory, and engineering collaborations.</sub>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer" alt="footer"/>
 
