@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Blue Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0284c7&height=220&section=header&text=Hi%20there,%20I'm%20Tinh%20Le%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
+<a href="#tech"><img src="https://capsule-render.vercel.app/api?type=waving&color=0284c7&height=220&section=header&text=Hi%20there%2C%20I'm%20Tinh%20Le%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" /></a>
 
   <h3>🚀 Full-Stack Engineer | UI/UX Enthusiast & AI Workflow Architect</h3>
 
@@ -12,9 +12,9 @@
   <!-- Quick Info Badges -->
   <p align="center">
     <a href="mailto:Tinh92qt@gmail.com"><img src="https://img.shields.io/badge/Email-Tinh92qt@gmail.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/tinh-le-viet-7b132a225/"><img src="https://img.shields.io/badge/LinkedIn-Tinh_Le-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/tinh-le-viet-7b132a225/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Tinh_Le-0284c7?style=for-the-badge&logo=linkedin-white&logoColor=fff" /></a>
     <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-0284c7?style=for-the-badge&logo=react&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/Experience-4%2B_Years-38bdf8?style=for-the-badge" />
+    <a href="#tech"><img src="https://img.shields.io/badge/Experience-4%2B_Years-0284c7?style=for-the-badge" /></a>
   </p>
 
 </div>
@@ -30,7 +30,7 @@ Starting my career with **Node.js**, I rapidly adapted and achieved exponential 
 > *"I am not just a developer who writes code — I architect resilient digital platforms, optimize system performance, design scalable workflows, and solve complex business challenges."*
 
 - 🎨 **UI/UX & Frontend Passion:** Obsessed with crafting sleek, responsive, and delightful frontend interfaces (React, Vue, Astro, Next.js, etc.).
-- ⚙️ **Robust Backend Architecture:** Deeply experienced in engineering scalable server-side solutions, optimizing complex databases, and building high-performance APIs (Node.js, NestJS, Python).
+- ⚙️ **Robust Backend Architecture:** Deeply experienced in engineering scalable server-side solutions, optimizing complex databases, and building high-performance APIs (Node.js, NestJS, Python, etc.).
 - 🧠 **Polyglot & Rapid Learner:** Unbound by a single technology stack. I quickly master new languages, tools, and design patterns to meet evolving enterprise demands.
 - 🤖 **AI-Driven Engineering:** Pioneer in constructing automated AI workflows (utilizing Claude & custom LLM prompts) to multiply team output and increase engineering efficiency.
 - 💼 **Enterprise-Grade Experience:** Hands-on experience delivering large-scale systems for major corporate clients:
@@ -89,5 +89,4 @@ Starting my career with **Node.js**, I rapidly adapted and achieved exponential 
   <sub>Designed with ❤️ by <b>Tinh Le</b>. Open for high-impact technical roles, advisory, and engineering collaborations.</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer" alt="footer"/>
-
+<a href="#tech"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0284c7&height=120&section=footer" alt="footer"/></a>
