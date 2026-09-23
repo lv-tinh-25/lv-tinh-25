@@ -5,8 +5,6 @@
 
   <h3>🚀 Full-Stack Engineer | UI/UX Enthusiast & AI Workflow Architect</h3>
 
-
-
   <p align="center">
     <b>Crafting Flawless Interfaces • Engineering Robust Backends • Leveraging AI to Simplify Complexity</b>
   </p>
@@ -47,42 +45,42 @@ Starting my career with **Node.js**, I rapidly adapted and achieved exponential 
 <details open>
   <summary><b>Frontend Mastery</b></summary>
   <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Astro-0C1116?style=for-the-badge&logo=astro&logoColor=BC52EE" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <a href="#tech"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/Astro-0C1116?style=for-the-badge&logo=astro&logoColor=BC52EE" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
 </details>
 
 <details open>
   <summary><b>Backend & Database Architecture</b></summary>
   <br>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</details>
-
-<details open>
-  <summary><b>System Optimization & AI Workflows</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Workflows-0284c7?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-0369a1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design_Patterns-0284c7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Performance_Tuning-38bdf8?style=for-the-badge" />
+  <a href="#tech"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
 </details>
 
 <details open>
   <summary><b>Tooling & CI/CD</b></summary>
   <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <a href="#tech"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+</details>
+
+<details open>
+  <summary><b>System Optimization & AI Workflows</b></summary>
+  <br>
+  <a href="#tech"><img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/LLM_Workflows-0284c7?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/System_Design-0369a1?style=for-the-badge" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/Design_Patterns-0284c7?style=for-the-badge" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/Performance_Tuning-38bdf8?style=for-the-badge" /></a>
 </details>
 
 ---
