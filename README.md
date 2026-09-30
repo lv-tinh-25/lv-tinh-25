@@ -3,10 +3,12 @@
   <!-- Blue Header Banner -->
 <a href="#tech"><img src="https://capsule-render.vercel.app/api?type=waving&color=0284c7&height=220&section=header&text=Hi%20there%2C%20I'm%20Tinh%20Le%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" /></a>
 
-  <h3>🚀 Full-Stack Engineer | UI/UX Enthusiast & AI Workflow Architect</h3>
+  <h3>🚀 Full-Stack Engineer | Agentic AI Engineer</h3>
+
+  <p align="center"><i>✨ Let's make complex things simple! ✨</i></p>
 
   <p align="center">
-    <b>Crafting Flawless Interfaces • Engineering Robust Backends • Leveraging AI to Simplify Complexity</b>
+    <b>Crafting Flawless Interfaces • Engineering Robust Backends • Building AI Agents that Ship Real Work</b>
   </p>
 
   <!-- Quick Info Badges -->
@@ -23,16 +25,16 @@
 
 ### 🌟 About Me
 
-I am a **Full-Stack Engineer** with **4+ years of professional experience** dedicated to building high-performance, pixel-perfect digital products with ultra-smooth user experiences. 
+I am a **Full-Stack Engineer** and **Agentic AI Engineer** with **4+ years of professional experience** dedicated to building high-performance, pixel-perfect digital products with ultra-smooth user experiences. 
 
-Starting my career with **Node.js**, I rapidly adapted and achieved exponential growth as a **Frontend specialist**. Today, I have evolved into a versatile **Polyglot Engineer**, using **AI as a powerful launchpad** to break through technological boundaries and deliver exceptional products.
+Starting my career with **Node.js**, I rapidly adapted and achieved exponential growth as a **Frontend specialist**. Today, I have evolved into a versatile **Polyglot Engineer** who **designs and builds agentic AI systems**, turning AI from a coding assistant into an engineering teammate that delivers exceptional products.
 
 > *"I am not just a developer who writes code — I architect resilient digital platforms, optimize system performance, design scalable workflows, and solve complex business challenges."*
 
 - 🎨 **UI/UX & Frontend Passion:** Obsessed with crafting sleek, responsive, and delightful frontend interfaces (React, Vue, Astro, Next.js, etc.).
 - ⚙️ **Robust Backend Architecture:** Deeply experienced in engineering scalable server-side solutions, optimizing complex databases, and building high-performance APIs (Node.js, NestJS, Python, etc.).
 - 🧠 **Polyglot & Rapid Learner:** Unbound by a single technology stack. I quickly master new languages, tools, and design patterns to meet evolving enterprise demands.
-- 🤖 **AI-Driven Engineering:** Pioneer in constructing automated AI workflows (utilizing Claude & custom LLM prompts) to multiply team output and increase engineering efficiency.
+- 🤖 **Agentic AI Engineering:** Designing and building agentic systems — multi-agent workflows, tool use & MCP integrations, and custom Claude Code skills — that automate the path from spec to shipped code and multiply team output. 🥉 3rd place, company-wide AI Hackathon 2026 (**SAGE**, 26 teams).
 - 💼 **Enterprise-Grade Experience:** Hands-on experience delivering large-scale systems for major corporate clients:
   - **SaaS Recruitment & ATS Platforms**
   - **Accounting & Tax Systems** (NGOs, Welfare Organizations & Educational Institutions)
@@ -74,10 +76,13 @@ Starting my career with **Node.js**, I rapidly adapted and achieved exponential 
 </details>
 
 <details open>
-  <summary><b>System Optimization & AI Workflows</b></summary>
+  <summary><b>Agentic AI & System Optimization</b></summary>
   <br>
   <a href="#tech"><img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
-  <a href="#tech"><img src="https://img.shields.io/badge/LLM_Workflows-0284c7?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/AI_Agents-0284c7?style=for-the-badge" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/MCP-0369a1?style=for-the-badge" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/LLM_Workflows-0284c7?style=for-the-badge" /></a>
   <a href="#tech"><img src="https://img.shields.io/badge/System_Design-0369a1?style=for-the-badge" /></a>
   <a href="#tech"><img src="https://img.shields.io/badge/Design_Patterns-0284c7?style=for-the-badge" /></a>
   <a href="#tech"><img src="https://img.shields.io/badge/Performance_Tuning-38bdf8?style=for-the-badge" /></a>
